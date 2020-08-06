@@ -85,7 +85,7 @@ function App() {
             <Route path='/' exact={true} component={HomeScreen} />
           </div>
         </main>
-        <footer className='footer'>Copyright © Ashraf Kabir 2020.</footer>
+        <footer className='footer'>Copyright © Ashraf Kabir 2020</footer>
       </div>
     </BrowserRouter>
   );
