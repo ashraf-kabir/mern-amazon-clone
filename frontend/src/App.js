@@ -66,6 +66,13 @@ function App() {
             <li>
               <Link to='/category/Shirts'>Shirts</Link>
             </li>
+            <li>
+              <Link to='/category/Shoes'>Shoes</Link>
+            </li>
+
+            <li>
+              <Link to='/category/Glasses'>Glasses</Link>
+            </li>
           </ul>
         </aside>
         <main className='main'>
