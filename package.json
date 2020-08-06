@@ -35,8 +35,8 @@
     "type": "git",
     "url": "git+https://github.com/ashraf-kabir/mern-amazon-clone.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Ashraf Kabir",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ashraf-kabir/mern-amazon-clone/issues"
   },
