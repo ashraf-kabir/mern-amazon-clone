@@ -1,7 +1,7 @@
 {
-  "name": "amazona",
+  "name": "shopdrop",
   "version": "1.0.0",
-  "description": "Demo : https://amazonaapp.herokuapp.com/",
+  "description": "Demo : https://shopdrop-ak.herokuapp.com/",
   "main": "index.js",
   "dependencies": {
     "aws-sdk": "^2.702.0",
